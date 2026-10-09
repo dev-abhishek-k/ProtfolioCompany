@@ -1,0 +1,1 @@
+.project-webgl{position:absolute;inset:0;width:100%;height:100%;z-index:1;pointer-events:none}.project-webgl.preview-failed{display:none}.project-image:has(.project-webgl:not(.preview-failed)) .project-object{opacity:0}.project-art-name{z-index:2}.project-hover{z-index:3}
